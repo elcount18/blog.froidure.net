@@ -16,7 +16,7 @@ toc: true
 toc_sticky: true
 ---
 
-Si vous utilisez Proxmox VE dans un environnement personnel (ou de test comme pour le blog), les notifications constantes de l'édition Entrprise peuvent devenir agaçantes.
+Si vous utilisez Proxmox VE dans un environnement personnel (ou de test comme pour le blog), les notifications constantes de l'édition Enterprise peuvent devenir agaçantes.
 Voici comment les désactiver proprement en basculant vers les dépots de la Community Edition
 
 ## Contexte
@@ -79,7 +79,7 @@ apt upgrade -y
 
 Après avoir exécuté les commandes :
 - Les notifications de souscription disparaîtront
-- Les mises à jour utiliserot le dépot Community
+- Les mises à jour utiliseront le dépot Community
 - L'interface web n'affichera plus d'avertissements
 
 ## Points d'attention
